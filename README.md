@@ -94,7 +94,8 @@ prompt_text = prompt + raw_text
   模型融合过程产生的中间模型：Chinese-CLIP/logs/muge_finetune_vit-h-14/checkpoints
 
   模型融合过程产生的中间模型验证集测试结果：datasets/MUGE/valid_predict/valid_evaluation
- （文件过大，无法上传，可通过train_clip.sh重新训练得到）
+
+（文件过大，无法上传，可通过train_clip.sh重新训练得到）
 ```
 epoch_latest0.pt : 79.81230031948883
 epoch_latest1.pt : 82.57454739084132
